@@ -1,6 +1,8 @@
 # GOBs-and-GOBs-of-Fun
 Updated version of Goal-Oriented Behavior
 
+Build: https://goodmaz1.github.io/GOBs-and-GOBs-of-Fun/
+
 
 NOTE: Don't go too fast when pressing E. 
 
